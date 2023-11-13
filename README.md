@@ -1,4 +1,7 @@
-### Hi there 👋
+### Final year PhD student:
+- interested in different applications of VR/AR/MR, and game design;
+- currently finishing my PhD in multi-modal multi-player VR games;
+- more info about my projects on my website, https://ioiototm.github.io.
 
 <!--
 **IoIoToTM/IoIoToTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
